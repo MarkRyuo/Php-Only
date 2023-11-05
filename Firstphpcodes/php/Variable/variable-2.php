@@ -20,8 +20,11 @@ $Jhonmark = "Jan 19 2003" ;
 $jhonmark = "01/19/03"; 
 $_Jhonmark = "January, 19 2003";
 
-echo $_Jhonmark 
+// echo $_Jhonmark 
 
+// Wrong naming variable 
+
+// $19jhonmark = 19 ;  //this is wrong ang php ay hindi ito tatangapin 
 
 
 
