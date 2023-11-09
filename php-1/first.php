@@ -13,7 +13,15 @@
 
     $answer = $num + $num2 ;
 
-    echo $answer 
+    // echo $answer 
+
+    // String + Sting is not allowed
+    $karen = "Are you mad?"; 
+    $jake = "no im not!" ;
+
+    $sentence = $karen + $jake ;
+
+    echo $sentence   
 
 
 
