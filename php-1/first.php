@@ -19,7 +19,7 @@
     $karen = "Are you mad?"; 
     $jake = "no im not!" ;
 
-    $sentence = $karen + $jake ;
+    $sentence = $karen and $jake ;
 
     echo $sentence   
 
