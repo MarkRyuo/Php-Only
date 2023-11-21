@@ -27,6 +27,12 @@ echo "or Hypertext preprocessor";
       width: 300px;
       height: 50px;
     }
+
+    button:hover {
+      background-color: red;
+      color: #fff;
+      box-shadow: 5px 5px 10px beige;
+    }
   </style>
 </head>
 <body>
