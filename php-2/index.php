@@ -24,8 +24,8 @@ echo "or Hypertext preprocessor";
     button {
       background-color: aquamarine;
       box-shadow: 2px 2px 10px cadetblue;
-      width: 100px;
-      height: 100px;
+      width: 300px;
+      height: 50px;
     }
   </style>
 </head>
