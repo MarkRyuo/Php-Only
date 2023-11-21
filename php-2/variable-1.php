@@ -2,7 +2,6 @@
 
 // First String 
 
- 
 $name = "Jhon Mark"; //This is Example of String 
 
 // This is Integer 
