@@ -13,3 +13,15 @@ echo "Currently Learning (Php) <br>" ;
 echo "or Hypertext preprocessor";
 
 ?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>First Code for PHP</title>
+</head>
+<body>
+  <button>Click This</button>
+</body>
+</html>
