@@ -20,11 +20,19 @@ echo "or Hypertext preprocessor";
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>First Code for PHP</title>
+  <style>
+    button {
+      background-color: aquamarine;
+      box-shadow: 2px 2px 10px cadetblue;
+      width: 100px;
+      height: 100px;
+    }
+  </style>
 </head>
 <body>
   <br>
   <h1>This is First Code for Php</h1>
   <br>
-  <button style="background-color: aquamarine; box-shadow: 5px 3px 10px black;">Click This</button>
+  <button>Click This</button>
 </body>
 </html>
