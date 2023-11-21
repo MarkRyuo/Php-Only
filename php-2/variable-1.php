@@ -16,4 +16,8 @@ $currency = 40.5; //Example of float like money in US ($40.5)
 // This is Boolean 
 
 $online = true; // Example of Boolean is "Is this Online? true or false : ans true
+
+/* if you use currency in text use the escape sequence (/) like this /${currency}; 
+output : $40.5 */
+
 ?>
