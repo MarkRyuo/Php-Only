@@ -16,7 +16,7 @@ $num4 = 40;
 
 $sum = $num3 + $num4;
 $difference = $num3 * $num4;
-echo "The sum is {$sum}, the difference is {},"
+echo "The sum is {$sum}, the difference is {$difference}, and so on."
 
 // Todo Integer
 // $Example = 20;
