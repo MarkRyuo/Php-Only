@@ -14,7 +14,7 @@ Print out the full name.
 $firstName = "Mark Ryuo";
 $lastName = "Malupa";
 
-$fullName = $firstName + $lastName;
+$fullName = $firstName. " " .$lastName ;
 
 echo $fullName
 
