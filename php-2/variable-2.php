@@ -24,7 +24,7 @@ $age = 20 ;
 
 //Todo Boolean 
 
-echo "My name is {$name}, I am {$age} years old, and live in {$city}".;
+echo "My name is {$name}, I am {$age} years old, and live in {$city}.";
 
 
 
