@@ -13,7 +13,8 @@ $num2 = 20.5;
 $isStudent = true;
 
 // echo $num1
-echo $num2
+// echo $num2
+echo $isStudent 
 
 
 
