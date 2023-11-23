@@ -2,10 +2,10 @@
 
 
 //Todo String 
-//  $Example ="String"
+//  $Example ="String" ;
 
 // Todo Integer
-
+// $Example = 20;
 
 //Todo Float 
 
