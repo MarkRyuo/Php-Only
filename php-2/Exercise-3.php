@@ -19,7 +19,7 @@ $difference = $num3 - $num4;
 $product = $num3 * $num4;
 $quotient = $num3 / $num4;
 
-echo "The sum is {$sum}, the difference is {$difference}, the product is {$product}, and the {$quotient}."
+echo "The sum is {$sum}, the difference is {$difference}, the product is {$product}, and the quotient is {$quotient}."
 
 // Todo Integer
 // $Example = 20;
