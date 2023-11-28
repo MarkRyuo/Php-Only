@@ -35,6 +35,18 @@ $numdiv2 = 700;
 $div = $numdiv1 / $numdiv2 ;
 
 //Todo Power 
+/* 
+To do the power of 
+ex: 
+10 to the power 2 = 100
+10 * 10 = 100
+*/
+
+$nump1 = 20;
+$nump2 = 5;
+
+$power = $nump1 ** $nump2;
+
 
 
 
