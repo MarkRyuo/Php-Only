@@ -58,7 +58,7 @@ $remain = $student % $groupings ;
 
 
 
-// echo $add ; 
+echo $add ; 
 echo "450 subtract by 700 is equal to", " ", $sub, "<br>" ;
 echo "450 multiply by 700 is equal to", " ", $mul, "<br>" ;
 echo "450 divided by 700 is equal to", " ",  $div, "<br>" ;
