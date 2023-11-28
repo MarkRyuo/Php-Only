@@ -63,7 +63,7 @@ echo $sub ;
 echo $mul ;
 echo $div ;
 echo $power ;
-
+echo $remain; 
 
 
 
