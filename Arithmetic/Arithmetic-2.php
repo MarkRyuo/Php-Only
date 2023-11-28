@@ -9,7 +9,7 @@ $numadd2 = 700;
 
 $add = $numadd1 + $numadd2;
 
-echo $add ; 
+
 
 //Todo Subtraction
 
@@ -18,7 +18,7 @@ $numsub2 = 700;
 
 $sub = $numsub1 - $numsub2;
 
-echo $sub ;
+
 
 //Todo Multiplication 
 
@@ -58,7 +58,8 @@ $remain = $student % $grouping ;
 
 
 
-echo 
+echo $add ; 
+echo $sub ;
 
 
 
