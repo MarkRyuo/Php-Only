@@ -47,7 +47,18 @@ $nump2 = 5;
 
 $power = $nump1 ** $nump2;
 
+//Todo Modulus 
 
+/* Modulus is Remeinder */
+
+$student = 30;
+$grouping = 5;
+
+$remain = $student % $grouping ;
+
+
+
+echo 
 
 
 
