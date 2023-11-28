@@ -63,7 +63,7 @@ $remain = $student % $groupings ;
 // echo $mul ;
 // echo $div ;
 // echo $power ;
-echo $remain, " ",  "student is no Group"; 
+echo $remain, " ",  "students remaining no Group"; 
 
 
 
