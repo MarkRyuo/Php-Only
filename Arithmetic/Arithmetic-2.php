@@ -62,7 +62,7 @@ $remain = $student % $groupings ;
 // echo $sub ;
 // echo $mul ;
 // echo $div ;
-echo "24 to the power of 5 is equal to", "", $power;
+echo "24 to the power of 5 is equal to", " ", $power, "<br>" ;
 echo $remain, " ",  "students remaining no Group"; 
 
 
