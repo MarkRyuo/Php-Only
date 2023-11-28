@@ -22,6 +22,11 @@ echo $sub ;
 
 //Todo Multiplication 
 
+$nummul1 = 450;
+$nummul2 = 700;
+
+$mul = $nummul1 * $nummul2 ;
+
 
 
 
