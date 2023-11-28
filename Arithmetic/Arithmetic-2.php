@@ -27,7 +27,14 @@ $nummul2 = 700;
 
 $mul = $nummul1 * $nummul2 ;
 
+//Todo Division 
 
+$numdiv1 = 450;
+$numdiv2 = 700;
+
+$div = $numdiv1 / $numdiv2 ;
+
+//Todo Power 
 
 
 
