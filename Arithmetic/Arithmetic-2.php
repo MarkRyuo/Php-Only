@@ -51,10 +51,10 @@ $power = $nump1 ** $nump2;
 
 /* Modulus is Remeinder */
 
-$student = 30;
-$grouping = 5;
+$student = 34;
+$groupings = 5;
 
-$remain = $student % $grouping ;
+$remain = $student % $groupings ;
 
 
 
@@ -63,7 +63,7 @@ $remain = $student % $grouping ;
 // echo $mul ;
 // echo $div ;
 // echo $power ;
-echo $remain; 
+echo $remain, " ",  "student is no Group"; 
 
 
 
