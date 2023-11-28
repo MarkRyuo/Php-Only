@@ -58,11 +58,11 @@ $remain = $student % $grouping ;
 
 
 
-echo $add ; 
-echo $sub ;
-echo $mul ;
-echo $div ;
-echo $power ;
+// echo $add ; 
+// echo $sub ;
+// echo $mul ;
+// echo $div ;
+// echo $power ;
 echo $remain; 
 
 
