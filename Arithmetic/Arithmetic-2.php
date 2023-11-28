@@ -60,7 +60,7 @@ $remain = $student % $groupings ;
 
 // echo $add ; 
 // echo $sub ;
-echo $mul ;
+echo "450 multiply by 700 is equal to", " ", $mul, "<br>" ;
 echo "450 divided by 700 is equal to", " ",  $div, "<br>" ;
 echo "24 to the power of 5 is equal to", " ", $power, "<br>" ;
 echo $remain, " ",  "students remaining no Group"; 
