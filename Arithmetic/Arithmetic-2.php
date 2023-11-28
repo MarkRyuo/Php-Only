@@ -61,7 +61,7 @@ $remain = $student % $groupings ;
 // echo $add ; 
 // echo $sub ;
 // echo $mul ;
-// echo $div ;
+echo "450 / 700 is equal to", " ",  $div, "<br>" ;
 echo "24 to the power of 5 is equal to", " ", $power, "<br>" ;
 echo $remain, " ",  "students remaining no Group"; 
 
