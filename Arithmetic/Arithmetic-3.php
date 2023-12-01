@@ -26,7 +26,7 @@ echo $total, "<br>" ;
 
 $student = 40 ;
 $group = 3 ;
-
+// Using Modulus is for remainder 
 $remainstudent = $student % $group ;
 
 echo $remainstudent, "ang natitirang studyante."
