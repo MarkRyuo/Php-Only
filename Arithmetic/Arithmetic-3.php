@@ -9,5 +9,7 @@ $lname = "Malupa" ;
 
 $age = 19 ;
 
+echo "Ako is", $fname, " ", ;
+
 
 ?>
