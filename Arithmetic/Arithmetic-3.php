@@ -19,6 +19,9 @@ echo "Ako is", " ",  $fname, " ", $lname, " ", $age, " ", "nakatira sa brgy Cumb
 $money1 = 10;
 $money2 = 3 ;
 
+$total = $money1 ** $money2 ;
+
+echo $total ;
 
 
 ?>
