@@ -16,4 +16,9 @@ echo "Ako is", " ",  $fname, " ", $lname, " ", $age, " ", "nakatira sa brgy Cumb
 
 //This is is to the power
 
+$money1 = 10;
+$money2 = 3 ;
+
+
+
 ?>
