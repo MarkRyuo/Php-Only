@@ -25,11 +25,15 @@ $total = $money1 ** $money2 ;
 echo $total, "<br>" ;
 
 $student = 40 ;
-$group = 3 ;
+$group = 6 ;
 // Using Modulus is for remainder 
+// 40 / 6 = 6.66667 
+//6 * 6 = 36 
+//40 - 36 = 4 
+//4 student no group
 $remainstudent = $student % $group ;
 
-echo $remainstudent, "ang natitirang studyante."
+echo $remainstudent, " ", "ang natitirang studyante."
 
 
 ?>
