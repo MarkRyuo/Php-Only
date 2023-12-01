@@ -12,4 +12,8 @@ $age = 19 ;
 echo "Ako is", " ",  $fname, " ", $lname, " ", $age, " ", "nakatira sa brgy Cumba Lipa City";
 
 
+//Todo Arithmetic not variable HAHAHA!
+
+//This is is to the power
+
 ?>
