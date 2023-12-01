@@ -22,7 +22,7 @@ $money2 = 3 ;
 // 10 x 10 = 100 x 10 = 1000
 $total = $money1 ** $money2 ;
 
-echo $total ;
+echo $total, "<br>" ;
 
 
 ?>
