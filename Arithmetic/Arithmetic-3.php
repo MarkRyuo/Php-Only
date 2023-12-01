@@ -29,7 +29,7 @@ $group = 3 ;
 
 $remainstudent = $student % $group ;
 
-
+echo $remainstudent, "ang natitirang studyante."
 
 
 ?>
