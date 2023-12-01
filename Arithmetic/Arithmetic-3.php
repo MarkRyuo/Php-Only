@@ -9,7 +9,7 @@ $lname = "Malupa" ;
 
 $age = 19 ;
 
-echo "Ako is", " ",  $fname, " ", $lname, " ", $age, " ", "nakatira sa brgy Cumba Lipa City";
+echo "Ako is", " ",  $fname, " ", $lname, " ", $age, " ", "nakatira sa brgy Cumba Lipa City <br>";
 
 
 //Todo Arithmetic not variable HAHAHA!
