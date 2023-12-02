@@ -12,7 +12,10 @@ $z = $x ** $y;
 //Output is 8000
 echo $z;
 
-//Todo Modulus (%)
+//Todo Modulus (%) 
+
+$student = 40;
+$group = 7; 
 
 
 ?>
