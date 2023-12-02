@@ -1,7 +1,8 @@
 <?php 
 
 
-g
+//Todo Exponent (**)
+
 
 
 ?>
