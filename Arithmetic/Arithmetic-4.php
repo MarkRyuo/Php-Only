@@ -19,7 +19,8 @@ $group = 7;
 
 $total = $student % $group;
 //40 / 7 = 5.714285714285714 malaki ang nasa kanan edi 6.
-//
+// 6 x 6 = 36 
+
 echo $total;
 
 
