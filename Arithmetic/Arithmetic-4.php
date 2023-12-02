@@ -17,5 +17,9 @@ echo $z;
 $student = 40;
 $group = 7; 
 
+$total = $student % $group;
+
+echo $total;
+
 
 ?>
