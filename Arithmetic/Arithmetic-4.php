@@ -3,7 +3,13 @@
 
 //Todo Exponent (**)
 
-$x = 10;
+$x = 20;
+$y = 3 ;
+$z = null;
+
+$z = $x ** $y;
+
+echo $z;
 
 
 ?>
