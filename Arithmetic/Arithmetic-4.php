@@ -10,18 +10,16 @@ $z = null;
 $z = $x ** $y;
 //20 x 20 = 400 x 20 = 8000
 //Output is 8000
-echo $z;
+echo $z, "<br>";
 
-//Todo Modulus (%) 
+//Todo Modulus (%) 40 ay hahatiin sa 7 
 
 $student = 40;
 $group = 7; 
 
 $total = $student % $group;
-//40 / 7 = 5.714285714285714 malaki ang nasa kanan edi 6.
-// 6 x 6 = 36 
-// 40 - 36 = 4 
-// 4 students is no group 
+//40 / 7 = 5.714285714285714 
+// 5 students is no group 
 echo $total;
 
 
