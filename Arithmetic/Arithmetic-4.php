@@ -15,7 +15,7 @@ echo $z, "<br>";
 //Todo Modulus (%) 40 ay hahatiin sa 7 
 
 $student = 40;
-$group = 7; 
+$group = 6; 
 
 $total = $student % $group;
 //40 / 7 = 5.714285714285714 
