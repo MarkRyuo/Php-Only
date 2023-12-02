@@ -3,6 +3,7 @@
 
 //Todo Exponent (**)
 
+$x = 10;
 
 
 ?>
