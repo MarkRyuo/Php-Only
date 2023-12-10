@@ -16,4 +16,6 @@ $total = $student1 % $student2 ;
 
 echo $total
 
+
+
 ?>
