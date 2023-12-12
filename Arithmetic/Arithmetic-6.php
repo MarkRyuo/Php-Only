@@ -6,7 +6,7 @@ $group1 = 7;
 
 $Total = $student1 ** $group1;
 
-echo $Total;
+echo $Total, "<br>";
 
 $student2 = 40 ;
 $group2 = 3 ;
