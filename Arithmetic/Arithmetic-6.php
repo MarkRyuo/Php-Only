@@ -8,5 +8,8 @@ $Total = $student1 ** $group1;
 
 echo $Total;
 
+$student2 = 40 ;
+$group2 = 3 ;
+
 
 ?>
