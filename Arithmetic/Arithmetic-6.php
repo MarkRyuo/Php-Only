@@ -1,10 +1,10 @@
 <?php 
 
 
-$student = 10 ;
-$group = 7; 
+$student1 = 10 ;
+$group1 = 7; 
 
-$Total = $student ** $group;
+$Total = $student1 ** $group1;
 
 echo $Total;
 
