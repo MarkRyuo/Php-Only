@@ -13,16 +13,18 @@ $group2 = 3 ;
 
 $total = $student2 % $group2 ;
 
-echo $total ;
+echo $total, "<br>" ;
 
 // Todo Increment and Decrement 
 
-// Todo (Increment) Imagine i have a 1 box and i like to add 1 box again and i need 2 box. 
-$box = 1 ;
+// Todo (Increment) Imagine i have a 1 box and i like to add 1 box again and i need 2 box.
 
+$box = 1 ;
 $box ++;
 
-echo $box;
+echo "I have", " ", $box, " ", "box";
+
+// Output: 2
 
 
 
