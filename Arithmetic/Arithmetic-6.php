@@ -17,7 +17,7 @@ echo $total ;
 
 // Todo Increment and Decrement 
 
-// Todo (Increment) Imagine i have a 1 box and i like to add 1 box again 
+// Todo (Increment) Imagine i have a 1 box and i like to add 1 box again and i need 2 box. 
 $box = 1 ;
 
 $box ++;
