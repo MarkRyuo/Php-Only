@@ -22,7 +22,7 @@ echo $total, "<br>" ;
 $box = 1 ;
 $box ++;
 
-echo "I have", " ", $box, " ", "box";
+echo "I have", " ", $box, " ", "box <br>";
 
 // Output: 2
 
