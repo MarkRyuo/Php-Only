@@ -8,4 +8,10 @@ $nphone = "Iphone X";
 
 echo "I have 4 ", $nphone, " ", "and 1 missing", " ", "the total of my iphone now is"," ", $Cellphone ; 
 
+// Todo (+=) & (-=)
+$sample = 10;
+$sample +=5;
+
+echo $sample;
+
 ?>
