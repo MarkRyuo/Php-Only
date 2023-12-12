@@ -28,5 +28,8 @@ echo "I have", " ", $box, " ", "box <br>";
 
 //Todo Imagine i dont want 2 box i need 1 again. Use Decrement.
 
+$Box = 2;
+$Box --;
 
+echo "I have", " ", $Box, " ", "Box again";
 ?>
