@@ -26,6 +26,7 @@ echo "I have", " ", $box, " ", "box";
 
 // Output: 2
 
+//Todo Imagine i dont want 2 box i need 1 again. Use Decrement.
 
 
 ?>
