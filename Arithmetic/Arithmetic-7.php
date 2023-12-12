@@ -12,6 +12,6 @@ echo "I have 4 ", $nphone, " ", "and 1 missing", " ", "the total of my iphone no
 $sample = 10; // Ihave 10 box i need to add 5 box
 $sample +=5; // Use this (+=) to add 
 
-echo $sample;
+echo $sample, "<br>";
 
 ?>
