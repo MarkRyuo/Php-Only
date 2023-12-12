@@ -15,4 +15,13 @@ $total = $student2 % $group2 ;
 
 echo $total ;
 
+
+$box = 1 ;
+
+$box ++;
+
+echo $box;
+
+
+
 ?>
