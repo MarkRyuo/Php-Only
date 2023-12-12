@@ -11,5 +11,8 @@ echo $Total;
 $student2 = 40 ;
 $group2 = 3 ;
 
+$total = $student2 % $group2 ;
+
+echo $total ;
 
 ?>
