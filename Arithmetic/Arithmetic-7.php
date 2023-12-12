@@ -19,6 +19,6 @@ echo $sample, "<br>";
 $sample_1 = 20 ; // I have 20 boxes, i give 5 the 5 in my mom 
 $sample_1 -=5; // Use (-=) to decrease the 20 box 
 
-echo 
+echo $sample_1 ;
 
 ?>
