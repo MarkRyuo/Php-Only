@@ -10,5 +10,7 @@ $pencil +=5 ;
 
 echo $pencil ;
 
+//binigay ko sa aking kapatid ang 3 pencil kaya ilan nalang ang pencil ko
+
 
 ?>
