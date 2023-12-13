@@ -12,7 +12,7 @@ echo $pencil ;
 
 //binigay ko sa aking kapatid ang 3 pencil kaya ilan nalang ang pencil ko
 
-$pencill -=3;
+$pencil -=3;
 
 
 ?>
