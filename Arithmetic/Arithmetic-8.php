@@ -24,6 +24,8 @@ $box = 2 ; // tapos may 2 box na may lamang 3 cookies
 
 $totalofcookies = $kookies ** $box ;
 
+echo $totalofcookies ;
+
 
 
 ?>
