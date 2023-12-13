@@ -27,5 +27,5 @@ $totalofcookies = $kookies ** $box ;
 echo $totalofcookies, " ", "Cookies" ;
 
 
-
+//Todo binigyan ko ang 1 box of cookies sa aking kaklase
 ?>
