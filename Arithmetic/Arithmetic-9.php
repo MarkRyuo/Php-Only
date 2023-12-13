@@ -1,5 +1,7 @@
 <?php 
 
+//Todo Operator precedence
+
 
 
 ?>
