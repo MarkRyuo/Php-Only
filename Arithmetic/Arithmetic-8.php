@@ -8,7 +8,7 @@ $pencil +=5 ;
 
 // Ilan na ang pencil ko ?
 
-
+echo $pencil ;
 
 
 ?>
