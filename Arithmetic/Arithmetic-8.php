@@ -24,8 +24,11 @@ $box = 2 ; // tapos may 2 box
 
 $totalofcookies = $kookies ** $box ;
 
-echo $totalofcookies, " ", "Cookies" ;
+echo $totalofcookies, " ", "Cookies <br>" ;
 
 
-//Todo binigyan ko ang 1 box of cookies sa aking kaklase
+//Todo binigyan ko ang 1 box of cookies sa aking kaklase\
+
+
+
 ?>
