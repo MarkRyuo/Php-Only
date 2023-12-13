@@ -15,4 +15,11 @@ echo $pencil ;
 $pencil -=3;
 
 
+//Todo (**) & (%)
+
+$kookies = 3 ; // 3 cookies
+$box = 2 ; // tapos may 2 box na may lamang 3 cookies
+
+
+
 ?>
