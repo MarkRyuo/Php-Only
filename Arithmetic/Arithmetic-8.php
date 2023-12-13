@@ -8,7 +8,7 @@ $pencil = 4 ;
 
 // Ilan na ang pencil ko ?
 
-echo $pencil ;
+echo $pencil, "<br>" ;
 
 //binigay ko sa aking kapatid ang 3 pencil kaya ilan nalang ang pencil ko
 
@@ -24,7 +24,7 @@ $box = 2 ; // tapos may 2 box na may lamang 3 cookies
 
 $totalofcookies = $kookies ** $box ;
 
-echo $totalofcookies ;
+echo $totalofcookies, " ", "Cookies" ;
 
 
 
