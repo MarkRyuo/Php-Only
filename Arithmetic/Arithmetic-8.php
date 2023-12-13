@@ -33,7 +33,9 @@ $Kookies = 3 ;
 
 $Totalofcookiesofyou = $Kookies % $box ;
 
-echo $Totalofcookiesofyou, " " , "ang natira para sakin"
+echo $Totalofcookiesofyou, " " , " box ang natira para sakin" ;
+
+
 
 
 ?>
