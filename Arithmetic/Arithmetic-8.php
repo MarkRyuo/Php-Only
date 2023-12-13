@@ -27,7 +27,12 @@ $totalofcookies = $kookies ** $box ;
 echo $totalofcookies, " ", "Cookies <br>" ;
 
 
-//Todo binigyan ko ang 1 box of cookies sa aking kaklase\
+//Todo binigyan ko ang 1 box of cookies sa aking kaklase ilan matitira sakin?
+
+$Kookies = 3 ;
+
+$Totalofcookiesofyou = $Kookies % $box ;
+
 
 
 
