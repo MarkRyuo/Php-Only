@@ -17,8 +17,8 @@ $pencil -=3;
 
 //Todo (**) & (%)
 
-$kookies = 3 ; // 3 cookies
-$box = 2 ; // tapos may 2 box na may lamang 3 cookies
+$kookies = 3 ; // 3 cookies sa isang box
+$box = 2 ; // tapos may 2 box
 
 //Todo ilan ang cookies lahat ?
 
