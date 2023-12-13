@@ -20,6 +20,10 @@ $pencil -=3;
 $kookies = 3 ; // 3 cookies
 $box = 2 ; // tapos may 2 box na may lamang 3 cookies
 
+//Todo ilan ang cookies lahat ?
+
+$totalofcookies = $kookies ** $box ;
+
 
 
 ?>
