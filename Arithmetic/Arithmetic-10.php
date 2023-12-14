@@ -10,4 +10,6 @@ echo "My name is", " ", $fname, " ", $lname, " ", "I'm", " ", $age ;
 
 //Todo + - * / ** % 
 
+$Box = 10 ;
+
 ?>
