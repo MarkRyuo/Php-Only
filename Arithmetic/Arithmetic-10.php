@@ -11,5 +11,8 @@ echo "My name is", " ", $fname, " ", $lname, " ", "I'm", " ", $age ;
 //Todo + - * / ** % 
 
 $Box = 10 ;
+$box = 20 ;
+
+echo $Box + $box ;
 
 ?>
