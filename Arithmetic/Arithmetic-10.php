@@ -18,10 +18,11 @@ $box = 20 ;
 
 $box2 = 10 ;
 
-echo $Box + $box - $box2 ;
+
 
 $box3 = 30; 
 
 
+echo $Box + $box - $box2 * $box3 ;
 
 ?>
