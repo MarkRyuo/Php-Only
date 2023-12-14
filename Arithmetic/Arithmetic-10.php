@@ -6,7 +6,7 @@ $fname = "Jhon Mark" ;
 $lname = "Malupa" ;  // String 
 $age = "20" ; //Integer 
 
-echo "My name is", " ", $fname, " ", $lname, " ", "I'm", " ", $age ;
+echo "My name is", " ", $fname, " ", $lname, " ", "I'm", " ", $age, "<br>" ;
 
 //Todo + - * / ** % 
 
