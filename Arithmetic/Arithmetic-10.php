@@ -20,4 +20,6 @@ $box2 = 10 ;
 
 echo $Box + $box - $box2 ;
 
+$box3 = 30; 
+
 ?>
