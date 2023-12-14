@@ -8,6 +8,6 @@ $age = "20" ; //Integer
 
 echo "My name is", " ", $fname, " ", $lname, " ", "I'm", " ", $age ;
 
-
+//Todo + - * / ** % 
 
 ?>
