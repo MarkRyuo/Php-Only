@@ -15,9 +15,9 @@ echo "My name is", " ", $fname, " ", $lname, " ", "I'm", " ", $age, "<br>" ;
 $Box = 10 ;
 $box = 20 ;
 
-echo $Box + $box ;
 
 $box2 = 10 ;
 
+echo $Box + $box - $box2 ;
 
 ?>
