@@ -28,4 +28,6 @@ $box4 = 20 ;
 
 echo $Box + $box - $box2 * $box3 / $box4 ;
 
+$box5 = 40; 
+
 ?>
