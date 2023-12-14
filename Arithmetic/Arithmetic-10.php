@@ -23,8 +23,9 @@ $box2 = 10 ;
 $box3 = 30; 
 
 
-echo $Box + $box - $box2 * $box3 ;
 
 $box4 = 20 ; 
+
+echo $Box + $box - $box2 * $box3 / $box4 ;
 
 ?>
