@@ -22,6 +22,11 @@
 $Coffee_name = "Caffee latee" ;
 $price_of_coffee = 20 ;
 $quantity = $_POST["quantity"] ;
+$Total = null ;
+
+$Total = $quantity * $price_of_coffee ;
+
+
 
 
 
