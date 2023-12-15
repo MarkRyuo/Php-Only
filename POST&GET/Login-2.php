@@ -16,3 +16,11 @@
 
 </body>
 </html>
+
+<?php 
+
+echo $_GET["username"] ;
+
+
+
+?>
