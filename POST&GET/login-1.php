@@ -23,6 +23,6 @@
 <?php 
 
   echo "{$_GET["username"]} <br>";
-  echo $_GET["password"] ;
+  echo "{$_GETP["password"]} <br>" ;
 
 ?>
