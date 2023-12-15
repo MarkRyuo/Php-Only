@@ -20,6 +20,7 @@
 <?php 
 
 $Coffee_name = "Caffee latee" ;
+$price_of_coffee = 20 ;
 
 
 
