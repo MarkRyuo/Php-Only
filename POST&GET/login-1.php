@@ -9,7 +9,9 @@
 
   <form action="login-1.php" method="get">
     <label for="username">Username</label> <br>
-    <input type="text">
+    <input type="text" name="username">
+
+    <label for="password">Password</label>
   </form>
   
 </body>
