@@ -7,7 +7,7 @@
 </head>
 <body>
   
-<form action="Login-2.php" method="get">
+<form action="Login-2.php" method="post">
   <label for="username">Username: </label>
   <input type="text" name="username">
   <input type="submit" value="Use">
@@ -19,7 +19,7 @@
 
 <?php 
 
-echo $_GET["username"] ;
+echo $_POST["username"] ;
 
 
 
