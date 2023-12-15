@@ -19,7 +19,8 @@
 
 <?php 
 
-echo $_POST["username"] ;
+$Coffee_name = "Caffee latee"
+
 
 
 
