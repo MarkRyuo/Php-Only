@@ -35,6 +35,7 @@ $box5 = 40;
 
 $box6 = 6 ;
 
+// echo $Box + $box - $box2 * $box3 / $box4  ** $box5;
 echo $Box + $box - $box2 * $box3 / $box4  ** $box5;
 
 
