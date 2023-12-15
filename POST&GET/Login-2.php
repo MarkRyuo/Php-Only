@@ -8,7 +8,9 @@
 <body>
   
 <form action="Login-2.php" method="get">
-  <label for="username">Username:</label>
+  <label for="username">Username: </label>
+  <input type="text" name="username">
+  <input type="submit" value="Use">
 </form>
 
 
