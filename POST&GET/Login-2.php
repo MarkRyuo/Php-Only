@@ -7,7 +7,9 @@
 </head>
 <body>
   
-<form action="Login-2.php" method="get"></form>
+<form action="Login-2.php" method="get">
+  <label for="username">Username:</label>
+</form>
 
 
 </body>
