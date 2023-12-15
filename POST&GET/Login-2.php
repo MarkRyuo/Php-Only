@@ -27,6 +27,7 @@ $Total = null ;
 $Total = $quantity * $price_of_coffee ;
 
 echo "You have ordered {$Coffee_name}" ;
+echo "total of \${$Total}" ;
 
 
 
