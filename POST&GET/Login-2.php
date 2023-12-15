@@ -19,7 +19,7 @@
 
 <?php 
 
-$Coffee_name = "Caffee latee"
+$Coffee_name = "Caffee latee" ;
 
 
 
