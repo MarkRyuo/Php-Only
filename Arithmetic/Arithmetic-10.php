@@ -12,8 +12,7 @@ echo "My name is", " ", $fname, " ", $lname, " ", "I'm", " ", $age, "<br>" ;
 
 //Todo + - * / ** % 
 
-$Box = 10 ;
-$box = 20 ;
+$box1 = 20 ;
 
 
 $box2 = 10 ;
@@ -25,17 +24,18 @@ $box3 = 30;
 
 
 
-$box4 = 20 ; 
+$box4 = 10 ; 
 
 
 
-$box5 = 40; 
+$box5 = 5; 
 
 
 
 $box6 = 6 ;
 
-echo $Box + $box - $box2 * $box3 / $box4  ** $box5;
+// echo  $box1 + $box2 - $box3 * $box4  / $box5;
+echo  30 - 60;
 // echo 20 - 27.28484105318785;
 
 
