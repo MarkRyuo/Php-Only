@@ -21,7 +21,7 @@ $box2 = 10 ;
 
 
 $box3 = 30; 
-$box3 +=100;
+// $box3 +=100;
 
 
 
@@ -35,8 +35,8 @@ $box5 = 40;
 
 $box6 = 6 ;
 
-// echo $Box + $box - $box2 * $box3 / $box4  ** $box5;
 echo $Box + $box - $box2 * $box3 / $box4  ** $box5;
+// echo 20 - 27.28484105318785;
 
 
 ?>
