@@ -14,6 +14,8 @@
 
     <label for="quantity">Quantity:</label>
     <input type="text" name="quantity" required>
+
+    <input type="date" name="date" required>
   </form>
   
 </body>
