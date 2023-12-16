@@ -8,7 +8,9 @@
 <body>
 
   <form action="Ordering-2.php" method="post">
-    
+
+    <label for="product">Product:</label>
+    <input type="text">
   </form>
   
 </body>
