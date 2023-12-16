@@ -20,3 +20,9 @@
   
 </body>
 </html>
+
+<?php 
+
+$productname = $_POST["productname"] ;
+
+?>
