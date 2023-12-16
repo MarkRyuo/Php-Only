@@ -33,6 +33,8 @@ $quantity = $_POST["quantity"] ;
 $date = $_POST["date"] ;
 $total = null ;
 
-$total = 
+$total = $allproductcost * $product ;
+
+
 
 ?>
