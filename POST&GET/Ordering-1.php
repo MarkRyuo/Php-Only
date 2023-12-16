@@ -24,6 +24,9 @@
 <?php 
 
 $productname = $_POST["productname"] ;
-$quantity = $_POST["quantity"]
+$quantity = $_POST["quantity"] ;
+$allcostproduct = 20 ;
+$total = null;
+
 
 ?>
