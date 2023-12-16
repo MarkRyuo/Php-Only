@@ -11,10 +11,11 @@
 
     <label for="product">Product:</label>
     <input type="text" name="product" required> <br>
-
+    <br>
     <label for="quantity">Quantity:</label>
-    <input type="text" name="quantity" required>
-
+    <input type="text" name="quantity" required> <br>
+    <br>
+    <label for="date">Date:</label>
     <input type="date" name="date" required>
   </form>
   
