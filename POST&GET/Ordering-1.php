@@ -28,5 +28,7 @@ $quantity = $_POST["quantity"] ;
 $allcostproduct = 20 ;
 $total = null;
 
+$total = $quantity * $allcostproduct ;
+
 
 ?>
