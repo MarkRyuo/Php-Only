@@ -35,6 +35,6 @@ $total = null ;
 
 $total = $allproductcost * $quantity ;
 
-echo "Your Product is {$product} and the quantity of your product is {$quantity} and when did you add it is {$date}, the price of all product her is {$allproductcost} the total of your is {$total} pesos per 1 . "
+echo "Your Product is {$product} and the quantity of your product is {$quantity} and when did you add it is {$date}, the price of all product here is {$allproductcost} the total of your product is {$total} pesos per 1 . "
 
 ?>
