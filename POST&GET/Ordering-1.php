@@ -30,5 +30,7 @@ $total = null;
 
 $total = $quantity * $allcostproduct ;
 
+echo "Your order is {$productname} , <br> and the cost is \${$total};"
+
 
 ?>
