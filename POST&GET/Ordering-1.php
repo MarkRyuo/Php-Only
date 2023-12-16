@@ -8,6 +8,11 @@
 <body>
 
   <form action="Ordering-1.php" method="post">
+
+  <label for="productname">Productname:</label>
+  <input type="text" name="productname" placeholder="ProductName">
+
+  <label for="quantity">Quantity:</label>
   </form>
   
 </body>
