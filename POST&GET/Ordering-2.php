@@ -17,6 +17,8 @@
     <br>
     <label for="date">Date:</label>
     <input type="date" name="date" required>
+
+    <input type="submit" value="Add">
   </form>
   
 </body>
