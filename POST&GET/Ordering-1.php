@@ -12,8 +12,10 @@
   <label for="productname">Productname:</label>
   <input type="text" name="productname" placeholder="ProductName" required> <br>
 <br>
-  <label for="quantity">Quantity:</label>
+  <label for="quantity"> Quantity:</label>
   <input type="text" name="quantity" placeholder="Quantity" required> <br>
+   <br>
+  <input type="submit" value=" Add">
   </form>
   
 </body>
