@@ -13,7 +13,7 @@
     <input type="text" name="product" required> <br>
 
     <label for="quantity">Quantity:</label>
-    
+    <input type="text" name="quantity" required>
   </form>
   
 </body>
