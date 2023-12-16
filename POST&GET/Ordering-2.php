@@ -23,3 +23,11 @@
   
 </body>
 </html>
+
+
+<?php 
+
+$product = $_POST["product"] ;
+
+
+?>
