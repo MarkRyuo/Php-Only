@@ -6,6 +6,10 @@
   <title>Ordering</title>
 </head>
 <body>
+
+  <form action="Ordering-2.php" method="post">
+    
+  </form>
   
 </body>
 </html>
