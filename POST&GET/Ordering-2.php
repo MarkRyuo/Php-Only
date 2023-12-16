@@ -28,6 +28,7 @@
 <?php 
 
 $product = $_POST["product"] ;
+$quantity = $_POST["quantity"] ;
 
 
 ?>
