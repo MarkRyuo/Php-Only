@@ -10,9 +10,10 @@
   <form action="Ordering-1.php" method="post">
 
   <label for="productname">Productname:</label>
-  <input type="text" name="productname" placeholder="ProductName">
+  <input type="text" name="productname" placeholder="ProductName"> <br>
 
-  <label for="quantity">Quantity:</label>
+  <label for="quantity">Quantity:</label> <br>
+  <input type="text" name="quantity" placeholder="Quantity">
   </form>
   
 </body>
