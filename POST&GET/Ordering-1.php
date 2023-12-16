@@ -24,5 +24,6 @@
 <?php 
 
 $productname = $_POST["productname"] ;
+$quantity = $_POST["quantity"]
 
 ?>
