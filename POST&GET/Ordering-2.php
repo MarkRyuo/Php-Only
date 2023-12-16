@@ -10,7 +10,10 @@
   <form action="Ordering-2.php" method="post">
 
     <label for="product">Product:</label>
-    <input type="text" name="product" required>
+    <input type="text" name="product" required> <br>
+
+    <label for="quantity">Quantity:</label>
+    
   </form>
   
 </body>
