@@ -35,6 +35,6 @@ $total = null ;
 
 $total = $allproductcost * $product ;
 
-
+echo "Your Product is {$product} and the quantity of your product is {$quantity} and when did you add it is {$date} "
 
 ?>
