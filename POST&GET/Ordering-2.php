@@ -27,8 +27,12 @@
 
 <?php 
 
+$allproductcost = 10 ; 
 $product = $_POST["product"] ;
 $quantity = $_POST["quantity"] ;
+$date = $_POST["date"] ;
+$total = null ;
 
+$total = 
 
 ?>
