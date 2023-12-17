@@ -3,15 +3,15 @@
 $quantiy = 10 ;
 
 if ($quantity >= 100 ) {
-  echo "kakaunti"
+  echo "kakaunti" ;
 }
 
 elseif ($quantity <= 0) {
-  echo "ang dami"
+  echo "ang dami" ;
 }
 
 else {
-  echo "okay"
+  echo "okay" ;
 }
 
 ?>
