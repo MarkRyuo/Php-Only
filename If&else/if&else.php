@@ -1,15 +1,14 @@
 <?php 
 
 
-$age = 10;
-$total = null ;
+$age = 21;
 
- if ($age >= 15) {
-  echo "This is good" ;
+ if ($age >= 20) {
+  echo "This your to old buddy" ;
  } 
 
  else 
-  echo "your to old buddy"
+  echo "your to young buddy"
 
 
 ?>
