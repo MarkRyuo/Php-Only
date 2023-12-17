@@ -1,6 +1,6 @@
 <?php 
 
-$age = -10 ;
+$age = 0 ;
 
 //Todo if ang age is greater than equal sa 30
 if ($age >= 30) {
