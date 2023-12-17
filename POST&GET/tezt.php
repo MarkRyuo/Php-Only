@@ -20,4 +20,15 @@ if ($number3 <= $number4) {
 }
 
 
+$value1 = 15;
+$value2 = "15";
+
+if ($value1 == $value2) {
+    echo "Ang $value1 ay pareho sa $value2.";
+} else {
+    echo "Ang $value1 ay hindi pareho sa $value2.";
+}
+
+
+
 ?>
