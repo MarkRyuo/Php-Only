@@ -6,7 +6,7 @@ if ($age >= 30) {
   echo "Your too old bro" ;
 }
 
-elseif ($age == 0) {
+elseif ($age == -20) {
   echo "Too young broo" ;
 }
 
