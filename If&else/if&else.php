@@ -1,10 +1,10 @@
 <?php 
 
 
-$age = 20;
+$age = 10;
 $total = null ;
 
- if ($site >= 15) {
+ if ($age >= 15) {
   echo "This is good" ;
  } 
 
