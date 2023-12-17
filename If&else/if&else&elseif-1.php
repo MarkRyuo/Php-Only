@@ -1,6 +1,6 @@
 <?php 
 
-$quantiy = 10 ;
+$quantity = 10 ;
 
 if ($quantity >= 100 ) {
   echo "kakaunti" ;
