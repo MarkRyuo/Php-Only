@@ -2,12 +2,14 @@
 
 $age = -10 ;
 
+//Todo if ang age is greater than equal sa 30
 if ($age >= 30) {
   echo "Your too old bro" ;
 }
 
-elseif ($age == -20) {
-  echo "Too young broo" ;
+// Todo once na may naglagay ng -1 to -100 
+elseif ($age <= 0) {
+  echo "Too young broo, you just born" ;
 }
 
 else {
