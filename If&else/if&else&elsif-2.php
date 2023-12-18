@@ -23,7 +23,7 @@
 <?php 
 
 $username = "{$_POST["username"]} <br>";
-$password = $_POST["password"];
+$password = "{$_POST["password"]} <br>";
 
 
 ?>
