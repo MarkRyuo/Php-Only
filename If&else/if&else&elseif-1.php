@@ -18,10 +18,10 @@
 
 <?php 
 
-$quantity = $_POST["quantity"] ;
+// $quantity = $_POST["quantity"] ;
 
 if ($quantity >= 10) {
-  echo "wo"
+  echo "Amg Baba naman ng kinuha mo" ;
 }
 
 ?>
