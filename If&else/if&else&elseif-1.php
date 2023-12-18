@@ -23,7 +23,7 @@ $quantity = $_POST["quantity"] ;
 if ($quantity >= 20) {
   echo "Ang dami naman ng kinuha mo" ;
 }
-
+// Kung konti ang linagay ay eto lalabas
 else {
   echo "Ang konti ng kinuha mo grabe your the worst" ;
 }
