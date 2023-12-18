@@ -18,7 +18,7 @@
 
 <?php 
 
-$quantity
+$quantity = $_POST["quantity"] ;
 
 if ($quantity >= 10) {
   echo "wo"
