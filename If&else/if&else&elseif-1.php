@@ -1,17 +1,11 @@
-<?php 
-
-$quantity = 10 ;
-
-if ($quantity >= 100 ) {
-  echo "kakaunti" ;
-}
-
-elseif ($quantity <= 0) {
-  echo "ang dami" ;
-}
-
-else {
-  echo "okay" ;
-}
-
-?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>If & Else & Elseif</title>
+</head>
+<body>
+  
+</body>
+</html>
