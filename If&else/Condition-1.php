@@ -1,9 +1,13 @@
 <?php 
 
-$x = 10 ;
-$y = 20 ;
+$x = 40 ;
+$y = 40 ;
 
-if ($x >= $y) {
+if ($x == $y) {
+  echo "x and y is equal number" ;
+}
+
+elseif ($x >= $y) {
   echo "x is greater than the y" ;
 }
 
