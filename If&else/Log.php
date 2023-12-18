@@ -7,7 +7,7 @@
 </head>
 <body>
 
-  <form action="/If&else/if&else&elsif-2.php" method="post">
+  <form action="Log.php" method="post">
     <label for="username">Username:</label>
     <input type="text" name="username" required>
     <br>
