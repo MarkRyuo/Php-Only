@@ -29,7 +29,8 @@
 // }
 
 $quantity = $_POST["quantity"] ;
-// Kung ang ilalagay ay sa quantity ay pantay sa 20 ay ilagay ang (Ang dami naman ng kinuha mo)
+// Kung ang ilalagay ay sa quantity ay pantay sa 20 ay ilagay ang ("Ang konti ng kinuha mo grabe your the worst)
+
 if ($quantity <= 20) {
   echo "Ang konti ng kinuha mo grabe your the worst" ;
 }
