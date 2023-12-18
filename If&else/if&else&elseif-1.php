@@ -18,14 +18,14 @@
 
 <?php 
 
-// $quantity = $_POST["quantity"] ;
-
-if ($quantity >= 10) {
-  echo "Amg Baba naman ng kinuha mo" ;
+$quantity = $_POST["quantity"] ;
+// Kung ang ilalagay ay sa quantity ay pantay sa 20 ay ilagay ang (Ang dami naman ng kinuha mo)
+if ($quantity >= 20) {
+  echo "Ang dami naman ng kinuha mo" ;
 }
 
 else {
-  echo "Ang Dami ng kinuha mo grabe your the best" ;
+  echo "Ang konti ng kinuha mo grabe your the worst" ;
 }
 
 ?>
