@@ -7,11 +7,21 @@
 </head>
 <body>
 
-<form action="if&else&elseif-1.php">
+<form action="if&else&elseif-1.php" method="post">
 
   <input type="text" name="quantity" required placeholder="Put Quantity"> 
   <input type="submit" value="add">
 </form>
 
 </body>
-</html>
+</html> 
+
+<?php 
+
+$quantity
+
+if ($quantity >= 10) {
+  echo "wo"
+}
+
+?>
