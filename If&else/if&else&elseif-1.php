@@ -6,6 +6,9 @@
   <title>If & Else & Elseif</title>
 </head>
 <body>
+
+<form action="if&else&elseif-1.php">
   
+</form>
 </body>
 </html>
