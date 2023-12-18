@@ -10,6 +10,7 @@
 <form action="if&else&elseif-1.php">
 
   <input type="text" name="quantity" required placeholder="Put Quantity"> 
+  <input type="submit" value="add">
 </form>
 
 </body>
