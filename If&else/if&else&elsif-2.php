@@ -12,6 +12,7 @@
     <input type="text" name="username" required>
     <br>
     <label for="password">Password:</label>
+    <input type="text" name="password" required>
   </form>
 </body>
 </html>
