@@ -9,6 +9,7 @@
 
 <form action="if&else&elseif-1.php">
 
+  <input type="text" name="quantity" required placeholder="Put Quantity"> 
 </form>
 
 </body>
