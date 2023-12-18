@@ -7,4 +7,8 @@ if ($x >= $y) {
   echo "x is greater than the y" ;
 }
 
+else {
+  echo "y is greater than the x" ;
+}
+
 ?>
