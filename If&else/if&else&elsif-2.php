@@ -25,5 +25,7 @@
 $username = "{$_POST["username"]} <br>";
 $password = "{$_POST["password"]} <br>";
 
+echo "Your username is {$username} and your password is {$password}."
+
 
 ?>
