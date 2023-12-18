@@ -24,4 +24,8 @@ if ($quantity >= 10) {
   echo "Amg Baba naman ng kinuha mo" ;
 }
 
+else {
+  echo "Ang Dami ng kinuha mo grabe your the best" ;
+}
+
 ?>
