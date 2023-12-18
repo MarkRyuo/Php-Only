@@ -22,9 +22,8 @@
 
 <?php 
 
-$username = $_POST["username"];
+$username = "{$_POST["username"]} <br>";
 $password = $_POST["password"];
-
 
 
 ?>
