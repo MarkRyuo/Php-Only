@@ -23,4 +23,6 @@
 
 <?php 
 
+$hours = $_POST["hours"] ;
+
 ?>
