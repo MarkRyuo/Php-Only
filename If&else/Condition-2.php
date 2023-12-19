@@ -31,6 +31,10 @@ if ($day <= 10 ) {
   $weekly_pay = $day * $rate ;
   echo "Your weekly pay is ₱{$weekly_pay}." ;
 }
+elseif ($day == 0 ) {
+  echo "wala ka sahod"
+}
+
 else {
   echo "sobra ang iyong araw" ;
 }
