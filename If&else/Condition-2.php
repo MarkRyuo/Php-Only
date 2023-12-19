@@ -9,7 +9,7 @@
 
       <form action="Condition-2.php" method="post">
 
-        <input type="text" name="hours" placeholder="hours">
+        <input type="text" name="day" placeholder="day">
         <br>
         <input type="text" name="rate" placeholder="rate">
         <br>
@@ -23,12 +23,12 @@
 
 <?php 
 
-$hours = $_POST["hours"] ;
+$day = $_POST["day"] ;
 $rate = $_POST["rate"] ;
 $weekly_pay = null ;
 
-if ($hours <= 50 ) {
-  $weekly_pay = $hours * $rate ;
+if ($day <= 50 ) {
+  $weekly_pay = $day * $rate ;
 }
 
 echo "Your weekly pay is ₱{$weekly_pay}."
