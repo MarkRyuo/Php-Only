@@ -10,8 +10,11 @@
       <form action="Condition-2.php" method="post">
 
         <input type="text" name="hours" placeholder="hours">
+        <br>
         <input type="text" name="rate" placeholder="rate">
+        <br>
         <input type="submit" value="Calculate">
+        <br>
       </form>
   
 </body>
