@@ -1,8 +1,8 @@
 <?php 
 
-$adult = true ;
+$adult = false ;
 
-if ($adult >= true) {
+if ($adult) {
   echo "Its true your adult bro" ;
 }
 else {
