@@ -26,11 +26,14 @@
 $day = $_POST["day"] ;
 $rate = $_POST["rate"] ;
 $weekly_pay = null ;
-
-if ($day <= 50 ) {
+// Todo kung ang day ay less than equal sa 100
+if ($day <= 10 ) {
   $weekly_pay = $day * $rate ;
+  echo "Your weekly pay is ₱{$weekly_pay}." ;
+}
+else {
+  echo "sobra ang iyong araw" ;
 }
 
-echo "Your weekly pay is ₱{$weekly_pay}."
 
 ?>
