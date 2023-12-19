@@ -31,4 +31,6 @@ if ($hours <= 50 ) {
   $weekly_pay = $hours * $rate ;
 }
 
+echo "Your weekly pay is ₱{$weekly_pay}."
+
 ?>
