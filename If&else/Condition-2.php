@@ -26,7 +26,7 @@
 $day = $_POST["day"] ;
 $rate = $_POST["rate"] ;
 $weekly_pay = null ;
-// Todo kung ang day ay less than equal sa 100
+// Todo kung ang day ay less than equal sa 10 is lalabas eto
 if ($day <= 10 ) {
   $weekly_pay = $day * $rate ;
   echo "Your weekly pay is ₱{$weekly_pay}." ;
