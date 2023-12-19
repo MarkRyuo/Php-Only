@@ -26,17 +26,19 @@
 $day = $_POST["day"] ;
 $rate = $_POST["rate"] ;
 $weekly_pay = null ;
+
+
+if ($day == 0 ) {
+  echo "wala ka sahod" ;
+}
 // Todo kung ang day ay less than equal sa 10 is lalabas eto
-if ($day <= 10 ) {
+elseif ($day <= 10 ) {
   $weekly_pay = $day * $rate ;
   echo "Your weekly pay is ₱{$weekly_pay}." ;
 }
-elseif ($day == 0 ) {
-  echo "wala ka sahod"
-}
 
 else {
-  echo "sobra ang iyong araw" ;
+  echo "sobra ang iyong araw {$day} at ang rate na inilagay mo ay {$rate} ito ay hindi tatanggapin ng aming system" ;
 }
 
 
