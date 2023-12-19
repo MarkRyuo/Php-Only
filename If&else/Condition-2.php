@@ -15,7 +15,12 @@
         <br>
         <input type="submit" value="Calculate">
         <br>
+
       </form>
   
 </body>
 </html>
+
+<?php 
+
+?>
