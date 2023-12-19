@@ -8,7 +8,8 @@
 <body>
 
       <form action="Condition-2.php" method="post">
-        
+
+        <input type="text" name="hours" placeholder="hours">
       </form>
   
 </body>
