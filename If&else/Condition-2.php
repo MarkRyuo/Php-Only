@@ -24,5 +24,6 @@
 <?php 
 
 $hours = $_POST["hours"] ;
+$rate = $_POST["rate"] ;
 
 ?>
