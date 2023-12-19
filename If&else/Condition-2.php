@@ -6,6 +6,8 @@ $total = null ;
 
 $total = $rate_per_Hour * $week ;
 
+echo $total ;
+
 
 
 ?>
