@@ -1,5 +1,5 @@
 <?php 
 
-
+$adult = true ;
 
 ?>
