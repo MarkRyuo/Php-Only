@@ -25,5 +25,10 @@
 
 $hours = $_POST["hours"] ;
 $rate = $_POST["rate"] ;
+$weekly_pay = null ;
+
+if ($hours <= 50 ) {
+  
+}
 
 ?>
