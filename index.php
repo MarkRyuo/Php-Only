@@ -1,6 +1,6 @@
 <?php 
 
-$age = 30 ;
+$age = 61 ;
 
 if ($age >= 60 ){
   echo "Your senior" ;
