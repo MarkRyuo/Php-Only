@@ -2,8 +2,8 @@
 
 $age = 30 ;
 
-if ($age >= 10 ){
-  
+if ($age >= 60 ){
+  echo "Your senior" ;
 }
 
 
